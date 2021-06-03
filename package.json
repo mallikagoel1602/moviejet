@@ -1,0 +1,22 @@
+{
+  "name": "moviejet",
+  "version": "1.0.0",
+  "description": "Movie Rental Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallikagoel1602/moviejet.git"
+  },
+  "author": "Mallika Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mallikagoel1602/moviejet/issues"
+  },
+  "homepage": "https://github.com/mallikagoel1602/moviejet#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
